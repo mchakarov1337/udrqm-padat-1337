@@ -1,0 +1,6 @@
+{
+  "name": "Maison Étoile Paris",
+  "description": "Parisian luxury couture, fine fragrance, and curated visual archive inspired by French editorial heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
